@@ -1,0 +1,16 @@
+#sidebar-nav a {
+  color: #F6BC03;
+  font-family: cinzel,serif;
+}
+
+.btn {
+  border: none!important;
+}
+
+#welcomestar.btn:hover, #welcomestar.btn:active, #welcomestar.btn:target, #welcomestar.btn:focus {
+  border: none!important;
+  outline: none!important;
+  outline: none;
+  box-shadow: none;
+}
+
